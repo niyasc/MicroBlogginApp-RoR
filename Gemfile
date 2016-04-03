@@ -7,6 +7,7 @@ gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
+gem 'therubyracer', :platforms => :ruby
 gem 'sdoc', group: :doc
 
 group :development, :test do
